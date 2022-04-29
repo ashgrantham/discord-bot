@@ -27,7 +27,7 @@ you will need to install node_modules in the folder,
 *Note everyone can use every admin command*,
 
 **Version 1.1:**
-
+***you will need to install the ms module for this*,**
 Added mute and unmute commmands (!mute, !unmute),
 if you type !mute @whoyouwant to mute it mutes them indefenetly,
 or you could type !mute @whoyouwant 1m for 1 minute or 1s for 1 second or 1h for 1 hour or 1d for 1 day or 1 for 1 ms etc.
