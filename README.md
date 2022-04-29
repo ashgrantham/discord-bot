@@ -34,6 +34,6 @@ or you could type !mute @whoyouwant 1m for 1 minute or 1s for 1 second or 1h for
 
 **Version 1.2:**
 added join role and message,
-
+*make sure to enable all intent gateway things in the developer portal*,
 this is probably all im going to do for today,
 29/4/22
