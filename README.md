@@ -21,5 +21,7 @@ ping,
 secretrole,
 
 
-The token uploaded in the files is now invalid so good luck stealing it lol
-you will need to install node_modules in the folder
+The token uploaded in the files is now invalid so good luck stealing it lol,
+you will need to install node_modules in the folder,
+
+*Note everyone can use every admin command*
