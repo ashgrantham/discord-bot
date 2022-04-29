@@ -31,3 +31,9 @@ you will need to install node_modules in the folder,
 Added mute and unmute commmands (!mute, !unmute),
 if you type !mute @whoyouwant to mute it mutes them indefenetly,
 or you could type !mute @whoyouwant 1m for 1 minute or 1s for 1 second or 1h for 1 hour or 1d for 1 day or 1 for 1 ms etc.
+
+**Version 1.2:**
+added join role and message,
+
+this is probably all im going to do for today,
+29/4/22
